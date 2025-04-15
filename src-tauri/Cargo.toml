@@ -1,6 +1,6 @@
 [package]
 name = "QooApp"
-version = "0.0.1"
+version = "1.0.0"
 description = "QooApp桌面客户端"
 authors = ["1024xiaoshen"]
 edition = "2021"
